@@ -67,7 +67,7 @@ put our configuration params
 ```
 module.exports = {
   // puppet_padplus Token
-  token: "puppet_padplus_f387a9c321f178ce",
+  token: "puppet_padplus_xxxx",
   // bot name
   name: "Zeng",
 }
